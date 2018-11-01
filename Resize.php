@@ -10,9 +10,9 @@
 <body>
 <?php
 
-interface Comparable
+interface Resizeable
 {
-    public function compareTo($objOne, $objTwo);
+    public function resize($percent);
 }
 ?>
 </body>
