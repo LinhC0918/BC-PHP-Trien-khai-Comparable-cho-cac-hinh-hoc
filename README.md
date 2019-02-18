@@ -1,1 +1,1 @@
-# Bài tập Triển khai Interface Comparator để so sánh các lớp hình học
+# Bài tập Triển khai Comparable cho các lớp hình học
